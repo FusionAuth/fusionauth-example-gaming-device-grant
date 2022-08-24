@@ -31,3 +31,8 @@ Usage
     1. Open `localhost:8000` in your browser
     1. Click the "Click to Start" button
     1. Browse to the URL provided and enter the code or scan the QR code with your phone.
+    
+----
+Created by Lucien Chemaly
+ 
+
