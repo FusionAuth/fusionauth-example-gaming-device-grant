@@ -1,10 +1,10 @@
 FusionAuth Device Authorization Grant workflow example
 ====
-This code base, was orginally build on top for the Fusionauth main Device Authorization Grant flow example, you can find here the original example on the following [github repository] (https://github.com/FusionAuth/fusionauth-example-device-grant)
+This code base, was orginally build on top for the FusionAuth main Device Authorization Grant flow example, you can find here the original example on the following [github repository] (https://github.com/FusionAuth/fusionauth-example-device-grant)
 
 This is build for demo puposes
 ====
-A basic HTML/JavaScript app demonstrating the Device Authorization Request and Device Access Token Request of the [Oauth2 Device Authorization Grant](https://tools.ietf.org/html/rfc8628) specification.
+A basic HTML/JavaScript app demonstrating the Device Authorization Request and Device Access Token Request of the [OAuth2 Device Authorization Grant](https://tools.ietf.org/html/rfc8628) specification.
 
 Use in conjunction with an installation of FusionAuth to demo the entire Device Grant workflow.
 
@@ -33,6 +33,7 @@ Usage
     1. Browse to the URL provided and enter the code or scan the QR code with your phone.
     
 ----
+
 Created by Lucien Chemaly
  
 
