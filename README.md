@@ -1,8 +1,10 @@
 FusionAuth Device Authorization Grant workflow example
 ====
-This code base, was orginally build on top for the FusionAuth main Device Authorization Grant flow example, you can find here the original example on the following [github repository] (https://github.com/FusionAuth/fusionauth-example-device-grant)
+This code base, was orginally built on top of the FusionAuth main Device Authorization Grant flow example, you can find here the original example on the following [github repository] (https://github.com/FusionAuth/fusionauth-example-device-grant)
 
-This is build for demo puposes
+[Read the full article](https://fusionauth.io/learn/expert-advice/gaming-entertainment/oauth-device-grant-gaming) walking you through the Device Authorization grant and how it can help your users log in to your game.
+
+This is for demo puposes
 ====
 A basic HTML/JavaScript app demonstrating the Device Authorization Request and Device Access Token Request of the [OAuth2 Device Authorization Grant](https://tools.ietf.org/html/rfc8628) specification.
 
@@ -36,4 +38,3 @@ Usage
 
 Created by Lucien Chemaly
  
-
