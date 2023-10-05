@@ -1,6 +1,10 @@
 FusionAuth Device Authorization Grant workflow example
 ====
-This code base, was orginally built on top of the FusionAuth main Device Authorization Grant flow example, you can find here the original example on the following [github repository] (https://github.com/FusionAuth/fusionauth-example-device-grant)
+The foundation of this codebase is rooted in the FusionAuth primary Device Authorization Grant flow illustration, which can be conveniently located within the GitHub repository linked here: [GitHub Repository Link]. 
+ (https://github.com/FusionAuth/fusionauth-example-device-grant)
+ Our codebase draws its architectural inspiration and core principles from the exemplary implementation provided in the aforementioned repository. This foundational integration showcases the seamless orchestration of the Device Authorization Grant flow, a pivotal component in our authentication framework.
+
+For those seeking deeper insights into the technical underpinnings and intricate details, we highly recommend exploring the original example, as it offers a comprehensive and illuminating exploration of this robust authentication paradigm.
 
 [Read the full article](https://fusionauth.io/learn/expert-advice/gaming-entertainment/oauth-device-grant-gaming) walking you through the Device Authorization grant and how it can help your users log in to your game.
 
