@@ -16,7 +16,8 @@ Use in conjunction with an installation of FusionAuth to demo the entire Device 
 
    Start by [downloading and installing FusionAuth](https://fusionauth.io/docs/v1/tech/getting-started/).
 
-2. **Create an Application:**
+2. **[Create an Application](
+https://fusionauth.io/docs/v1/tech/core-concepts/applications):**
 
    - Enable Device Grant on the OAuth tab under "Enabled grants."
    - Enter a Device Verification URL.
