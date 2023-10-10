@@ -26,7 +26,7 @@ https://fusionauth.io/docs/v1/tech/core-concepts/applications):**
      - For example, `https://acme.com/activate` which would be able to redirect to `https://login.acme.com/oauth2/device?client_id={client_id}&tenantId={tenantId}` where `https://login.acme.com` is the URL of your FusionAuth service.
    - Click save (blue icon at the top right).
 
-3. **Update the FusionAuth CORS policy:**
+3. **Update the [FusionAuth CORS policy](https://fusionauth.io/docs/v1/tech/reference/cors):**
 
    - Add `http://localhost:8000` to "Allowed origins."
    - Check "POST" as an "Allowed method."
