@@ -2,7 +2,7 @@
 
 This codebase is built on top of the FusionAuth's main Device Authorization Grant flow example. You can find the original example on the [FusionAuth GitHub repository](https://github.com/FusionAuth/fusionauth-example-device-grant).
 
-Read the full article walking you through the Device Authorization grant and how it can help your users log in to your game.
+Read the full article walking you through the Device Authorization Grant and how it can help your users log in to your application.
 
 ## For Demo Purposes
 
